@@ -1,32 +1,848 @@
-﻿[
+[
+  {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+54a2d222e6ef012b2668311d74ed5ecdb37e26d0"
+  },
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
+  },
+  {
+    "author": "Skyarkhangel",
+    "name": "RimThemesLite",
+    "steamId": "",
+    "version": "2019.3.1.0"
+  },
+  {
+    "author": "notfood",
+    "name": "PatchOperationHighlander",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.1"
+    "version": "11.0.4"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "author": "skyarkhangel",
+    "name": "CoreTranslation",
+    "steamId": "",
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
+    "author": "skyarkhangel",
+    "name": "CoreTranslation Ideology DLC",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "CoreTranslation Royalty DLC",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "CoreTranslation Biotech DLC",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "CoreTranslation Anomaly DLC",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.4.1.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "avilmask",
+    "name": "Animal Controls",
+    "steamId": "2426119067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "1.1.2+47a3930030de4fff8c72a11479227f820fb7f772"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "3261316725",
+    "version": "1.5"
+  },
+  {
+    "author": "PirateBY",
+    "name": "Combat Extended - Extended Loadout",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Augurr",
+    "name": "Core SK - RimFridge",
+    "steamId": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "Core SK - Deep Storage",
+    "steamId": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "NigrumMortis (supporting 1.4) & KiameV (supporting until 1.3) & Why_is_that (original)",
+    "name": "Core SK - Expanded Roofing",
+    "steamId": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe и Jamaican Castle",
+    "name": "Core SK - Fertile Fields",
+    "steamId": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "NotFood",
+    "name": "Core SK - MendAndRecycle",
+    "steamId": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Core SK - Quarry",
+    "steamId": "",
+    "version": "1.5"
+  },
+  {
+    "author": "Skyarkhangel",
+    "name": "Core SK",
+    "steamId": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
+  },
+  {
+    "author": "Revolus",
+    "name": "Animals are fun",
+    "steamId": "2108362126",
+    "version": "2020.5.30.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.9.0"
+  },
+  {
+    "author": "Nonnonstop",
+    "name": "Resize Architect Info",
+    "steamId": "2832684885",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Nonnonstop",
+    "name": "Resize Character Info",
+    "steamId": "2893950488",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.0.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "HSK Autosort and Mod Assistant",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PirateBY",
+    "name": "MultiLang Colorful Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe (original), Kiame Vivacity и Taranchuk",
+    "name": "[KV] More Trait Slots [1.4]",
+    "steamId": "",
+    "version": "1.0.8330.21987"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Moonlight",
+    "steamId": "2589384830",
+    "version": "1.4+b969dc8a524643b410f36de1c20a165d6490cbde"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zenlor",
+    "name": "Anomaly Hotfixes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "Skynet",
+    "steamId": "",
+    "version": "1.0.0+f5294d554913c3354452c08063df2352d60f232b"
+  },
+  {
+    "author": "cattleya",
+    "name": "Flora reskin [Reupload]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+1c06003c22ec05c927b16f8477bd346c0a4df7df"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": "753498552",
+    "version": "1.5.0.8"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist и Mlie",
+    "name": "Simple FX: Smoke",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Scattered Flames",
+    "steamId": "2652749788",
+    "version": "1.5+2071f90009c0ad2a027cd1b1727f28f0284fd5fe"
+  },
+  {
+    "author": "qwerty19106",
+    "name": "Research Tree SK",
+    "steamId": "1266570759",
+    "version": "3.17.533"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "2661792499",
+    "version": "1.4"
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "HMC realistic terraforming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Updated by Ogliss",
+    "name": "Pawn Badge Fan Fork [Adopted]",
+    "steamId": "2526040241",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "My Little Planet",
+    "steamId": "1117406550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "Weapon degradation",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "khamenman",
+    "name": "Armor Racks",
+    "steamId": "1875828205",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "Survival Tools Lite",
+    "steamId": "",
+    "version": "1.1.3.0"
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy и Mersid",
+    "name": "Backup Power (Updated)",
+    "steamId": "3071356899",
+    "version": "1.10.175"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT_Fuse_SK",
+    "steamId": "728314182",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT_SolarFlareShield_SK",
+    "steamId": "728315620",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "Skyarkhangel",
+    "name": "HMC craftable all armors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training (no Task)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Categorized Crafting Bills",
+    "steamId": "2403595130",
+    "version": "1.0.1"
+  },
+  {
+    "author": "TheLoneTec",
+    "name": "AssortedTweaks",
+    "steamId": "",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Ctrl F",
+    "steamId": "2895300634",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "notfood",
+    "name": "SeedsPlease",
+    "steamId": "935732834",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Area Unlocker",
+    "steamId": "725153576",
+    "version": "3.14.109"
+  },
+  {
+    "author": "likeafox",
+    "name": "Haul Explicitly",
+    "steamId": "1547394294",
+    "version": "1.2.2.15"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Energy Tab",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Ask Before Enter",
+    "steamId": "2813027453",
+    "version": "1.5.1"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Faction Interface",
+    "steamId": "2854657718",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Social Interface",
+    "steamId": "2854221326",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.2439"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "Zachary Foster",
+    "name": "Minerals",
+    "steamId": "",
+    "version": "15.0.0.0"
+  },
+  {
+    "author": "ChippedChap",
+    "name": "Blueprint Totals Tooltip",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nonnonstop",
+    "name": "Resize Filter Tab",
+    "steamId": "2914821423",
+    "version": "1.0.0"
+  },
+  {
+    "author": "arpomo6",
+    "name": "HMC Mosquito remover",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Skharr",
+    "name": "HMC Skharr's Weapon Replacer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
+  },
+  {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.10.0+d178e653511def3c1ee64cb0183d34cd12768879"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zeracronius",
+    "name": "Dynamic Trade Interface",
+    "steamId": "3020706506",
+    "version": "1.0.0+da8e08a3cfd53ebd8d6ee315d587c013eb0f4a5b"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Auto links",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andromeda",
+    "name": "Pawn quick info",
+    "steamId": "3078081326",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Avius и Hazzer",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": "2.9.1"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.5.4062.1"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PirateBY",
+    "name": "VanillaOptimizations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "skyarkhangel",
+    "name": "AsariRace",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Glucocorticoid",
+    "name": "HSK More Info",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Andromeda",
+    "name": "Packable Containers",
+    "steamId": "3079237715",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "ModDiff",
+    "steamId": "2200054867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kopp",
+    "name": "Choose Your Medicine",
+    "steamId": "2937201140",
+    "version": "1.0.15.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.10.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
+  },
+  {
+    "author": "Revolus",
+    "name": "What's Missing?",
+    "steamId": "",
+    "version": "2020.4.25.1"
+  },
+  {
+    "author": "AmCh",
+    "name": "Need Bar Overflow",
+    "steamId": "2566316158",
+    "version": "1.3.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Painting Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8884.33488"
+  },
+  {
+    "author": "Noquiem",
+    "name": "Coordinate Readout",
+    "steamId": "2605167683",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "pureMJ",
+    "name": "While You Are Nearby",
+    "steamId": "2784585275",
+    "version": "0.7.1"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up (with add-on for PUAH)",
+    "steamId": "2034960453",
+    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "キャデグ",
+    "name": "Killfeed",
+    "steamId": "1362098265",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Odeum",
+    "name": "World Map Beautification Project",
+    "steamId": "2314407956",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "Spdskatr и CaesarV6",
+    "name": "Damage Indicators [1.5]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Prepare Landing for 1.5",
+    "steamId": "3221125358",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Skyarkhangel",
+    "name": "Darkest night SK",
+    "steamId": "",
+    "version": "1.5.0+96505f1a9927cf1e4933a50ed12f79f10e1f2040"
+  },
+  {
+    "author": "Syrchalis и Nandonalt",
+    "name": "Set Up Camp",
+    "steamId": "3234938357",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix и TheLoneTec",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "nry",
     "name": "Twitch Toolkit",
-    "steamId": "1718525787",
+    "steamId": "3013874066",
     "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Sergius777 (original by XeoNovaDan)",
+    "name": "[777] Favourites!",
+    "steamId": "2883755766",
+    "version": "1.0.0"
+  },
+  {
+    "author": "PirateBY",
+    "name": "WealthWatcher",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Glitterpedia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]
